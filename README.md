@@ -16,9 +16,3 @@ Această aplicație permite profesorilor și studenților să gestioneze notele 
 ## Utilizare
 1. Lansați aplicația folosind comanda specifică.
 2. Urmați instrucțiunile de pe ecran pentru a gestiona notele studenților.
-
-## Contribuții
-Contribuțiile sunt binevenite! Vă rugăm să deschideți un pull request pentru a adăuga noi funcționalități sau pentru a remedia problemele existente.
-
-## Licență
-Acest proiect este licențiat sub Licența MIT.
